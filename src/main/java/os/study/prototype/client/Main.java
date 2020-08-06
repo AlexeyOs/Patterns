@@ -1,6 +1,6 @@
-package os.study.client;
+package os.study.prototype.client;
 
-import os.study.Course;
+import os.study.prototype.Course;
 
 public class Main {
     public static void main(String[] args) {

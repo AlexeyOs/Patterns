@@ -1,4 +1,4 @@
-package os.study;
+package os.study.prototype;
 
 public class Course implements Prototype {
     private String name;
