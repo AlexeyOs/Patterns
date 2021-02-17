@@ -1,4 +1,4 @@
-package os.study.decorator;
+package os.study.refactoringguru.decorator;
 
 public class DataSourceDecorator implements DataSource {
     private DataSource wrappee;

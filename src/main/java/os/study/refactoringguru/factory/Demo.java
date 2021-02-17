@@ -1,4 +1,4 @@
-package os.study.factory;
+package os.study.refactoringguru.factory;
 
 public class Demo {
     /**

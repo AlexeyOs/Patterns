@@ -1,4 +1,4 @@
-package os.study.decorator;
+package os.study.refactoringguru.decorator;
 
 import java.io.*;
 

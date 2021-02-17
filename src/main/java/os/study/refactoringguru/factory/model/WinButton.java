@@ -1,6 +1,4 @@
-package os.study.factory.model;
-
-import os.study.factory.model.Button;
+package os.study.refactoringguru.factory.model;
 
 import java.awt.*;
 

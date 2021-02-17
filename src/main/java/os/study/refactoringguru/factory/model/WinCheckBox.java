@@ -1,4 +1,4 @@
-package os.study.factory.model;
+package os.study.refactoringguru.factory.model;
 
 public class WinCheckBox implements CheckBox {
     private String name;

@@ -1,4 +1,4 @@
-package os.study.prototype;
+package os.study.refactoringguru.prototype;
 
 public interface Prototype {
     Prototype clone();

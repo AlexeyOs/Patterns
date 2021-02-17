@@ -1,6 +1,6 @@
-package os.study.factory;
+package os.study.refactoringguru.factory;
 
-import os.study.factory.model.*;
+import os.study.refactoringguru.factory.model.*;
 
 
 /**

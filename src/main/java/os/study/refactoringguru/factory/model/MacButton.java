@@ -1,4 +1,4 @@
-package os.study.factory.model;
+package os.study.refactoringguru.factory.model;
 
 public class MacButton implements Button {
     private String name;

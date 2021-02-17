@@ -1,6 +1,6 @@
-package os.study.prototype.client;
+package os.study.refactoringguru.prototype.client;
 
-import os.study.prototype.Course;
+import os.study.refactoringguru.prototype.Course;
 
 public class Main {
     public static void main(String[] args) {

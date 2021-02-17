@@ -1,7 +1,4 @@
-package os.study.decorator;
-
-import java.io.ByteArrayInputStream;
-import java.io.InputStream;
+package os.study.refactoringguru.decorator;
 
 public class Demo {
     public static void main(String[] args) {
