@@ -1,7 +1,9 @@
 # Patterns
 
-1. [Прототип](https://refactoring.guru/ru/design-patterns/prototype)
+1. Наблюдатель(observer)
 
-2. [Абстрактная фабрика](https://refactoring.guru/ru/design-patterns/abstract-factory)
+2. Декоратор
 
-3. [Декоратор](https://refactoring.guru/ru/design-patterns/decorator)
+3. Прототип
+
+4. Простая фабрика, фабричный метод, абстрактная фабрика
